@@ -11,7 +11,7 @@ A diagnostic analysis of 1,191 real employee survey responses (Saudi private sec
 
 
 ## Key Findings
-- **Industry is the largest risk stratifier**: past-attrition rates range from 27% (Education) to 75% (Communications & IT) — a ~48-point spread within one market
+- **Sector has the largest gap**: past-attrition rates range from 27% (Education) to 75% (Communications & IT)
 - **Demographics show little association**: gender, age, marital status and education offer no consistent pattern that could serve as an intervention lever
 - **Drivers differ by occupation**: external opportunity is the top correlate in 4 of 5 major groups (strongest among managers, r = 0.47); services & sales responds mainly to opportunity and physical stress; clerical support is the exception — promotion fairness is its strongest correlate (r = −0.36)
 - **Two moderation effects pass formal interaction tests** (exploratory, pending validation): in medical professionals, high psychological exhaustion reverses the protective association of job stability; among clerical staff, low recognition flips the direction of pay satisfaction vs. attrition
