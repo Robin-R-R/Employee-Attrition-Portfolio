@@ -4,7 +4,7 @@ A diagnostic analysis of 1,191 real employee survey responses (Saudi private sec
 
 
 ## Why This Project
-- **Real survey data** — not the synthetic IBM dataset; includes 17 attitudinal scale variables (pay satisfaction, promotion fairness, commitment, exhaustion, etc.)
+- **Real survey data** — not the synthetic IBM dataset; includes 34 self-reported items covering demographics, job-related factors, and psychological/satisfaction scales
 - **Diagnostic, not predictive** — cross-sectional, retrospective design; reports adjusted associations, no causal or forecasting claims
 - **Group heterogeneity** — tests whether drivers differ by industry and ISCO major occupational group (managers, professionals, technicians, clerical support, services & sales)
 - **Cross-validated evidence** — every finding triangulated across four methods (correlation, adjusted logistic OR, RF permutation importance, CART), with honest 5-fold CV performance
