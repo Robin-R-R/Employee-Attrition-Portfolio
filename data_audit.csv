@@ -1,0 +1,36 @@
+column,dtype,n_missing,missing_rate,n_unique,sample_values
+id,int64,0,0.0,1191,11 | 12 | 13 | 14 | 15
+attrition_raw,str,0,0.0,2,yes | no
+gender_raw,str,0,0.0,2,female | male
+age_raw,str,0,0.0,4,31 to 40 | 21 to 30 | 41 to 50 | 51 to 60
+marital_status_raw,str,0,0.0,3,married | single | divorced
+academic_degree_raw,str,0,0.0,4,master's | bachelor's | diploma or secondary | ph.d
+years_experience_raw,str,0,0.0,7,less than 5 years | from 5 to 10 years | from 11 to 15 years | from 16 to 20 years | from 21 to 25 years
+years_last_org_raw,str,0,0.0,7,less than 5 years | from 5 to 10 years | from 11 to 15 years | from 16 to 20 years | from 21 to 25 years
+sector_raw,str,0,0.0,15,medical sector | education sector | communications and it sector | tourism sector | financial sector
+department_raw,str,0,0.0,21,accounting | teaching | relations | hr | administration
+job_title_raw,str,0,0.0,62,accountant | teacher | relationships specialist | manager assistant | administrative manager
+monthly_salary_raw,str,0,0.0,7,from 5000 to 10000 sar | from 11000 to 15000 sar | less than 5000 sar | from 16000 to 20000 sar | sar 31000 - and more
+allowances,int64,0,0.0,5,2 | 0 | 1 | 4 | 3
+medical_insurance_raw,str,0,0.0,2,no | yes
+bonus_raw,str,0,0.0,2,no | yes
+overtime_raw,str,0,0.0,2,no | yes
+payment_overtime_raw,str,0,0.0,3,i don't have overtime | no | yes
+rewards_wages_satisfaction_raw,str,0,0.0,2,yes | no
+deserved_promotion_raw,str,0,0.0,2,yes | no
+training_programs_raw,str,0,0.0,4,from 1 to 3 training programs | i did not receive any training | from 4 to 6 training programs | from 7 training programs to more
+useful_training_raw,str,0,0.0,2,yes | no
+business_travel_raw,str,0,0.0,3,i do not travel for work | travel rarely | travel frequently
+job_support_raw,str,0,0.0,3,medium | low | high
+recognition_raw,str,0,0.0,2,no | yes
+emotional_commitment_raw,str,0,0.0,3,medium | low | high
+job_engagement_raw,str,0,0.0,3,medium | difficult | easy
+distance_to_work_raw,str,0,0.0,3,medium | close | far
+work_life_balance_raw,str,0,0.0,3,medium | difficult | easy
+physical_stress_raw,str,0,0.0,3,yes | no | sometimes
+psychological_exhaustion_raw,str,0,0.0,3,no | sometimes | yes
+job_stability_raw,str,0,0.0,2,no | yes
+health_issues_raw,str,0,0.0,2,yes | no
+environment_satisfaction_raw,str,0,0.0,3,medium | low | high
+job_satisfaction_raw,str,0,0.0,3,not satisfied | satisfied | very satisfied
+job_opportunities_raw,str,0,0.0,2,yes | no

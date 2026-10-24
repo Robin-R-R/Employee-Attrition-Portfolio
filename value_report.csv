@@ -1,0 +1,192 @@
+column,value,count
+attrition_raw,no,676
+attrition_raw,yes,515
+gender_raw,female,678
+gender_raw,male,513
+age_raw,21 to 30,592
+age_raw,31 to 40,459
+age_raw,41 to 50,127
+age_raw,51 to 60,13
+marital_status_raw,married,686
+marital_status_raw,single,480
+marital_status_raw,divorced,25
+academic_degree_raw,bachelor's,764
+academic_degree_raw,diploma or secondary,247
+academic_degree_raw,master's,149
+academic_degree_raw,ph.d,31
+years_experience_raw,from 5 to 10 years,500
+years_experience_raw,less than 5 years,498
+years_experience_raw,from 11 to 15 years,114
+years_experience_raw,from 16 to 20 years,46
+years_experience_raw,from 21 to 25 years,20
+years_experience_raw,from 26 to 30 years,9
+years_experience_raw,from 31 to 35 years,4
+years_last_org_raw,less than 5 years,716
+years_last_org_raw,from 5 to 10 years,352
+years_last_org_raw,from 11 to 15 years,75
+years_last_org_raw,from 16 to 20 years,26
+years_last_org_raw,from 21 to 25 years,13
+years_last_org_raw,from 26 to 30 years,5
+years_last_org_raw,from 31 to 35 years,4
+sector_raw,medical sector,304
+sector_raw,education sector,272
+sector_raw,financial sector,153
+sector_raw,food production sector,114
+sector_raw,transport sector,69
+sector_raw,communications and it sector,64
+sector_raw,economic sector,48
+sector_raw,energy sector,47
+sector_raw,industry sector,27
+sector_raw,"environment, water, and agriculture sector",27
+sector_raw,tourism sector,26
+sector_raw,engineering consulting companies,14
+sector_raw,media sector,13
+sector_raw,law firm,11
+sector_raw,restaurant sector,2
+department_raw,administration,194
+department_raw,teaching,185
+department_raw,patient affairs,152
+department_raw,customers service,142
+department_raw,sales,138
+department_raw,processes,99
+department_raw,accounting,64
+department_raw,hr,45
+department_raw,relations,34
+department_raw,safety & security,27
+department_raw,technical support,27
+department_raw,information technology,17
+department_raw,marketing,15
+department_raw,banking operations,14
+department_raw,legal affairs,11
+department_raw,production,8
+department_raw,training,7
+department_raw,treasury,6
+department_raw,studies and design,4
+department_raw,medical service,1
+department_raw,engineering,1
+job_title_raw,teacher,165
+job_title_raw,administrative manager,96
+job_title_raw,customer services representative,83
+job_title_raw,nurse,69
+job_title_raw,manager assistant,57
+job_title_raw,receptionist,53
+job_title_raw,accountant,43
+job_title_raw,sales representative,41
+job_title_raw,supervisor,41
+job_title_raw,salesman,40
+job_title_raw,doctor,34
+job_title_raw,sales executive,32
+job_title_raw,it specialist,27
+job_title_raw,security and safety specialist,25
+job_title_raw,pharmacist,23
+job_title_raw,hr specialist,21
+job_title_raw,relationships specialist,20
+job_title_raw,operations supervisor,18
+job_title_raw,marketing specialist,18
+job_title_raw,hiring specialist,17
+job_title_raw,banking operations,14
+job_title_raw,trainer,14
+job_title_raw,coordinator,13
+job_title_raw,purchase specialist,13
+job_title_raw,data entry operator,12
+job_title_raw,electrical engineer,12
+job_title_raw,financial manager,12
+job_title_raw,lecturer,11
+job_title_raw,dentist,11
+job_title_raw,financial analyst,11
+job_title_raw,lawyer,10
+job_title_raw,admin accountant,9
+job_title_raw,secretariat,9
+job_title_raw,civil engineer,9
+job_title_raw,relations manager,9
+job_title_raw,consultant,8
+job_title_raw,production supervisor,8
+job_title_raw,engineer,8
+job_title_raw,scribe,7
+job_title_raw,project manager,6
+job_title_raw,quality specialist,6
+job_title_raw,driver,5
+job_title_raw,head of treasury,4
+job_title_raw,warehouse officer,4
+job_title_raw,mechanical engineer,4
+job_title_raw,radiographer,4
+job_title_raw,lab specialist,4
+job_title_raw,nutrition specialist,4
+job_title_raw,application specialist,3
+job_title_raw,chemical engineer,3
+job_title_raw,treasury agent,3
+job_title_raw,quality controller,3
+job_title_raw,insurance officer,3
+job_title_raw,graphic designer,3
+job_title_raw,reports manager,2
+job_title_raw,cybersecurity director,1
+job_title_raw,project engineer,1
+job_title_raw,business partners,1
+job_title_raw,operation and maintenance manager (acting),1
+job_title_raw,passenger services assistant,1
+job_title_raw,after sales service manager,1
+job_title_raw,social worker,1
+monthly_salary_raw,less than 5000 sar,492
+monthly_salary_raw,from 5000 to 10000 sar,491
+monthly_salary_raw,from 11000 to 15000 sar,155
+monthly_salary_raw,from 16000 to 20000 sar,31
+monthly_salary_raw,sar 31000 - and more,15
+monthly_salary_raw,from 26000 to 30000 sar,5
+monthly_salary_raw,from 21000 to 25000 sar,2
+medical_insurance_raw,yes,837
+medical_insurance_raw,no,354
+bonus_raw,no,698
+bonus_raw,yes,493
+overtime_raw,no,680
+overtime_raw,yes,511
+payment_overtime_raw,i don't have overtime,549
+payment_overtime_raw,yes,416
+payment_overtime_raw,no,226
+rewards_wages_satisfaction_raw,no,617
+rewards_wages_satisfaction_raw,yes,574
+deserved_promotion_raw,no,695
+deserved_promotion_raw,yes,496
+training_programs_raw,from 1 to 3 training programs,446
+training_programs_raw,i did not receive any training,383
+training_programs_raw,from 4 to 6 training programs,188
+training_programs_raw,from 7 training programs to more,174
+useful_training_raw,yes,757
+useful_training_raw,no,434
+business_travel_raw,i do not travel for work,860
+business_travel_raw,travel rarely,251
+business_travel_raw,travel frequently,80
+job_support_raw,medium,493
+job_support_raw,low,352
+job_support_raw,high,346
+recognition_raw,yes,768
+recognition_raw,no,423
+emotional_commitment_raw,medium,499
+emotional_commitment_raw,high,468
+emotional_commitment_raw,low,224
+job_engagement_raw,medium,755
+job_engagement_raw,easy,228
+job_engagement_raw,difficult,208
+distance_to_work_raw,medium,618
+distance_to_work_raw,close,381
+distance_to_work_raw,far,192
+work_life_balance_raw,medium,723
+work_life_balance_raw,easy,246
+work_life_balance_raw,difficult,222
+physical_stress_raw,sometimes,450
+physical_stress_raw,yes,380
+physical_stress_raw,no,361
+psychological_exhaustion_raw,sometimes,430
+psychological_exhaustion_raw,yes,404
+psychological_exhaustion_raw,no,357
+job_stability_raw,no,618
+job_stability_raw,yes,573
+health_issues_raw,no,998
+health_issues_raw,yes,193
+environment_satisfaction_raw,medium,679
+environment_satisfaction_raw,high,307
+environment_satisfaction_raw,low,205
+job_satisfaction_raw,satisfied,646
+job_satisfaction_raw,not satisfied,293
+job_satisfaction_raw,very satisfied,252
+job_opportunities_raw,no,606
+job_opportunities_raw,yes,585
