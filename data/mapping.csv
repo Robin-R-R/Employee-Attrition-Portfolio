@@ -1,0 +1,88 @@
+column,raw_value,encoded_value,type
+attrition_raw,no,0,binary
+attrition_raw,yes,1,binary
+gender_raw,female,0,binary
+gender_raw,male,1,binary
+medical_insurance_raw,no,0,binary
+medical_insurance_raw,yes,1,binary
+bonus_raw,no,0,binary
+bonus_raw,yes,1,binary
+overtime_raw,no,0,binary
+overtime_raw,yes,1,binary
+rewards_wages_satisfaction_raw,no,0,binary
+rewards_wages_satisfaction_raw,yes,1,binary
+deserved_promotion_raw,no,0,binary
+deserved_promotion_raw,yes,1,binary
+useful_training_raw,no,0,binary
+useful_training_raw,yes,1,binary
+recognition_raw,no,0,binary
+recognition_raw,yes,1,binary
+job_stability_raw,no,0,binary
+job_stability_raw,yes,1,binary
+health_issues_raw,no,0,binary
+health_issues_raw,yes,1,binary
+job_opportunities_raw,no,0,binary
+job_opportunities_raw,yes,1,binary
+job_support_raw,low,1,ordinal
+job_support_raw,medium,2,ordinal
+job_support_raw,high,3,ordinal
+emotional_commitment_raw,low,1,ordinal
+emotional_commitment_raw,medium,2,ordinal
+emotional_commitment_raw,high,3,ordinal
+environment_satisfaction_raw,low,1,ordinal
+environment_satisfaction_raw,medium,2,ordinal
+environment_satisfaction_raw,high,3,ordinal
+work_life_balance_raw,difficult,1,ordinal
+work_life_balance_raw,medium,2,ordinal
+work_life_balance_raw,easy,3,ordinal
+job_engagement_raw,difficult,1,ordinal
+job_engagement_raw,medium,2,ordinal
+job_engagement_raw,easy,3,ordinal
+distance_to_work_raw,close,1,ordinal
+distance_to_work_raw,medium,2,ordinal
+distance_to_work_raw,far,3,ordinal
+job_satisfaction_raw,not satisfied,1,ordinal
+job_satisfaction_raw,satisfied,2,ordinal
+job_satisfaction_raw,very satisfied,3,ordinal
+physical_stress_raw,no,0,ordinal
+physical_stress_raw,sometimes,1,ordinal
+physical_stress_raw,yes,2,ordinal
+psychological_exhaustion_raw,no,0,ordinal
+psychological_exhaustion_raw,sometimes,1,ordinal
+psychological_exhaustion_raw,yes,2,ordinal
+business_travel_raw,i do not travel for work,0,ordinal
+business_travel_raw,travel rarely,1,ordinal
+business_travel_raw,travel frequently,2,ordinal
+training_programs_raw,i did not receive any training,0,ordinal
+training_programs_raw,from 1 to 3 training programs,1,ordinal
+training_programs_raw,from 4 to 6 training programs,2,ordinal
+training_programs_raw,from 7 training programs to more,3,ordinal
+age_raw,21 to 30,1,interval
+age_raw,31 to 40,2,interval
+age_raw,41 to 50,3,interval
+age_raw,51 to 60,4,interval
+years_experience_raw,less than 5 years,1,interval
+years_experience_raw,from 5 to 10 years,2,interval
+years_experience_raw,from 11 to 15 years,3,interval
+years_experience_raw,from 16 to 20 years,4,interval
+years_experience_raw,from 21 to 25 years,5,interval
+years_experience_raw,from 26 to 30 years,6,interval
+years_experience_raw,from 31 to 35 years,7,interval
+years_last_org_raw,less than 5 years,1,interval
+years_last_org_raw,from 5 to 10 years,2,interval
+years_last_org_raw,from 11 to 15 years,3,interval
+years_last_org_raw,from 16 to 20 years,4,interval
+years_last_org_raw,from 21 to 25 years,5,interval
+years_last_org_raw,from 26 to 30 years,6,interval
+years_last_org_raw,from 31 to 35 years,7,interval
+monthly_salary_raw,less than 5000 sar,1,interval
+monthly_salary_raw,from 5000 to 10000 sar,2,interval
+monthly_salary_raw,from 11000 to 15000 sar,3,interval
+monthly_salary_raw,from 16000 to 20000 sar,4,interval
+monthly_salary_raw,from 21000 to 25000 sar,5,interval
+monthly_salary_raw,from 26000 to 30000 sar,6,interval
+monthly_salary_raw,sar 31000 - and more,7,interval
+academic_degree_raw,diploma or secondary,1,ordinal
+academic_degree_raw,bachelor's,2,ordinal
+academic_degree_raw,master's,3,ordinal
+academic_degree_raw,ph.d,4,ordinal

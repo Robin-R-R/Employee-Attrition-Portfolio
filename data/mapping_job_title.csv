@@ -1,0 +1,305 @@
+job_title_raw,department_raw,sector_raw,isco_2digit,isco_major,major_group_isco,mapping_confidence
+accountant,accounting,medical sector,24,2,professionals,high
+teacher,teaching,education sector,23,2,professionals,high
+relationships specialist,relations,communications and it sector,24,2,professionals,medium
+manager assistant,hr,tourism sector,33,3,technicians,medium
+administrative manager,administration,education sector,12,1,managers,high
+manager assistant,administration,education sector,33,3,technicians,medium
+administrative manager,administration,financial sector,12,1,managers,high
+project manager,processes,financial sector,12,1,managers,medium-conditional
+banking operations,banking operations,financial sector,43,4,clerical support,high
+coordinator,administration,education sector,33,3,technicians,medium-conditional
+customer services representative,customers service,communications and it sector,42,4,clerical support,high
+lecturer,teaching,education sector,23,2,professionals,high
+scribe,accounting,financial sector,44,4,clerical support,medium
+sales executive,sales,education sector,33,3,technicians,medium-conditional
+customer services representative,customers service,financial sector,42,4,clerical support,high
+sales representative,sales,financial sector,52,5,services and sales,high
+sales executive,sales,financial sector,33,3,technicians,medium-conditional
+salesman,sales,financial sector,52,5,services and sales,high
+consultant,sales,financial sector,24,2,professionals,medium-conditional
+security and safety specialist,safety & security,tourism sector,54,5,services and sales,medium
+admin accountant,accounting,financial sector,24,2,professionals,high
+it specialist,technical support,medical sector,25,2,professionals,high
+trainer,training,education sector,23,2,professionals,medium-conditional
+it specialist,information technology,education sector,25,2,professionals,high
+cybersecurity director,information technology,communications and it sector,13,1,managers,medium
+consultant,hr,communications and it sector,24,2,professionals,medium-conditional
+it specialist,information technology,tourism sector,25,2,professionals,high
+accountant,accounting,economic sector,24,2,professionals,high
+accountant,accounting,financial sector,24,2,professionals,high
+consultant,processes,medical sector,24,2,professionals,medium-conditional
+administrative manager,administration,transport sector,12,1,managers,high
+doctor,patient affairs,medical sector,22,2,professionals,high
+hr specialist,hr,financial sector,24,2,professionals,high
+trainer,teaching,education sector,23,2,professionals,medium-conditional
+it specialist,information technology,transport sector,25,2,professionals,high
+operations supervisor,processes,financial sector,33,3,technicians,medium-conditional
+salesman,sales,food production sector,52,5,services and sales,high
+security and safety specialist,safety & security,food production sector,54,5,services and sales,medium
+manager assistant,administration,communications and it sector,33,3,technicians,medium
+it specialist,information technology,communications and it sector,25,2,professionals,high
+data entry operator,processes,transport sector,41,4,clerical support,high
+it specialist,technical support,communications and it sector,25,2,professionals,high
+quality specialist,processes,food production sector,31,3,technicians,medium
+marketing specialist,marketing,industry sector,24,2,professionals,high
+customer services representative,customers service,food production sector,42,4,clerical support,high
+hr specialist,hr,industry sector,24,2,professionals,high
+marketing specialist,marketing,medical sector,24,2,professionals,high
+administrative manager,administration,media sector,12,1,managers,high
+marketing specialist,marketing,economic sector,24,2,professionals,high
+hr specialist,hr,engineering consulting companies,24,2,professionals,high
+application specialist,information technology,industry sector,25,2,professionals,medium
+customer services representative,customers service,medical sector,42,4,clerical support,high
+chemical engineer,processes,"environment, water, and agriculture sector",21,2,professionals,high
+lawyer,legal affairs,law firm,26,2,professionals,high
+driver,processes,food production sector,83,8,plant and machine operators,high
+relationships specialist,relations,financial sector,24,2,professionals,medium
+secretariat,administration,medical sector,41,4,clerical support,high
+electrical engineer,processes,energy sector,21,2,professionals,high
+relationships specialist,relations,medical sector,24,2,professionals,medium
+hr specialist,hr,transport sector,24,2,professionals,high
+salesman,sales,economic sector,52,5,services and sales,high
+sales representative,sales,education sector,52,5,services and sales,high
+quality specialist,processes,"environment, water, and agriculture sector",31,3,technicians,medium
+supervisor,safety & security,industry sector,54,5,services and sales,medium-conditional
+administrative manager,administration,food production sector,12,1,managers,high
+nurse,patient affairs,medical sector,22,2,professionals,high
+data entry operator,processes,medical sector,41,4,clerical support,high
+supervisor,customers service,tourism sector,33,3,technicians,medium-conditional
+treasury agent,treasury,financial sector,43,4,clerical support,medium
+administrative manager,administration,medical sector,12,1,managers,high
+supervisor,sales,food production sector,52,5,services and sales,medium-conditional
+salesman,sales,medical sector,52,5,services and sales,high
+supervisor,sales,industry sector,52,5,services and sales,medium-conditional
+receptionist,customers service,medical sector,42,4,clerical support,high
+head of treasury,treasury,financial sector,12,1,managers,medium
+quality controller,processes,food production sector,31,3,technicians,medium
+scribe,administration,media sector,44,4,clerical support,medium
+salesman,sales,media sector,52,5,services and sales,high
+hr specialist,teaching,education sector,24,2,professionals,high
+hiring specialist,hr,industry sector,24,2,professionals,high
+receptionist,customers service,media sector,42,4,clerical support,high
+administrative manager,administration,tourism sector,12,1,managers,high
+receptionist,customers service,tourism sector,42,4,clerical support,high
+receptionist,customers service,food production sector,42,4,clerical support,high
+supervisor,sales,financial sector,52,5,services and sales,medium-conditional
+marketing specialist,marketing,financial sector,24,2,professionals,high
+supervisor,administration,education sector,33,3,technicians,medium-conditional
+supervisor,technical support,tourism sector,35,3,technicians,medium-conditional
+accountant,accounting,food production sector,24,2,professionals,high
+supervisor,customers service,communications and it sector,33,3,technicians,medium-conditional
+warehouse officer,processes,industry sector,43,4,clerical support,medium
+mechanical engineer,technical support,industry sector,21,2,professionals,high
+manager assistant,customers service,education sector,33,3,technicians,medium
+manager assistant,administration,medical sector,33,3,technicians,medium
+production supervisor,production,industry sector,31,3,technicians,medium
+accountant,accounting,tourism sector,24,2,professionals,high
+sales representative,sales,transport sector,52,5,services and sales,high
+driver,processes,"environment, water, and agriculture sector",83,8,plant and machine operators,high
+pharmacist,patient affairs,medical sector,22,2,professionals,high
+reports manager,administration,medical sector,12,1,managers,medium
+supervisor,medical service,medical sector,32,3,technicians,medium-conditional
+radiographer,patient affairs,medical sector,32,3,technicians,high
+sales executive,sales,food production sector,33,3,technicians,medium-conditional
+customer services representative,customers service,transport sector,42,4,clerical support,high
+dentist,patient affairs,medical sector,22,2,professionals,high
+supervisor,administration,tourism sector,33,3,technicians,medium-conditional
+data entry operator,patient affairs,medical sector,41,4,clerical support,high
+supervisor,customers service,medical sector,33,3,technicians,medium-conditional
+customer services representative,customers service,tourism sector,42,4,clerical support,high
+receptionist,patient affairs,medical sector,42,4,clerical support,high
+security and safety specialist,safety & security,medical sector,54,5,services and sales,medium
+lab specialist,processes,food production sector,31,3,technicians,medium-conditional
+insurance officer,processes,medical sector,33,3,technicians,medium
+graphic designer,processes,media sector,21,2,professionals,high
+sales representative,sales,medical sector,52,5,services and sales,high
+civil engineer,studies and design,engineering consulting companies,21,2,professionals,high
+hr specialist,hr,medical sector,24,2,professionals,high
+application specialist,information technology,medical sector,25,2,professionals,medium
+nutrition specialist,patient affairs,medical sector,22,2,professionals,high
+it specialist,information technology,financial sector,25,2,professionals,high
+customer services representative,legal affairs,law firm,42,4,clerical support,high
+manager assistant,processes,restaurant sector,33,3,technicians,medium
+security and safety specialist,safety & security,energy sector,54,5,services and sales,medium
+sales executive,sales,energy sector,33,3,technicians,medium-conditional
+security and safety specialist,safety & security,transport sector,54,5,services and sales,medium
+customer services representative,customers service,economic sector,42,4,clerical support,high
+supervisor,accounting,financial sector,33,3,technicians,medium-conditional
+administrative manager,sales,food production sector,12,1,managers,high
+sales representative,sales,economic sector,52,5,services and sales,high
+supervisor,administration,media sector,33,3,technicians,medium-conditional
+administrative manager,administration,restaurant sector,12,1,managers,high
+administrative manager,sales,economic sector,12,1,managers,high
+customer services representative,customers service,education sector,42,4,clerical support,high
+graphic designer,administration,media sector,21,2,professionals,high
+administrative manager,administration,economic sector,12,1,managers,high
+production supervisor,production,food production sector,31,3,technicians,medium
+operations supervisor,processes,energy sector,31,3,technicians,medium-conditional
+secretariat,customers service,communications and it sector,41,4,clerical support,high
+sales representative,sales,food production sector,52,5,services and sales,high
+customer services representative,customers service,"environment, water, and agriculture sector",42,4,clerical support,high
+coordinator,relations,energy sector,24,2,professionals,medium-conditional
+financial analyst,accounting,energy sector,24,2,professionals,high
+security and safety specialist,safety & security,financial sector,54,5,services and sales,medium
+teacher,training,education sector,23,2,professionals,high
+receptionist,administration,education sector,42,4,clerical support,high
+hr specialist,hr,"environment, water, and agriculture sector",24,2,professionals,high
+manager assistant,administration,tourism sector,33,3,technicians,medium
+secretariat,administration,communications and it sector,41,4,clerical support,high
+coordinator,hr,energy sector,44,4,clerical support,medium-conditional
+graphic designer,studies and design,engineering consulting companies,21,2,professionals,high
+project engineer,processes,engineering consulting companies,21,2,professionals,high
+civil engineer,processes,engineering consulting companies,21,2,professionals,high
+administrative manager,administration,communications and it sector,12,1,managers,high
+engineer,processes,energy sector,21,2,professionals,high
+data entry operator,processes,food production sector,41,4,clerical support,high
+engineer,technical support,education sector,21,2,professionals,high
+civil engineer,processes,industry sector,21,2,professionals,high
+business partners,processes,financial sector,24,2,professionals,high
+project manager,information technology,communications and it sector,13,1,managers,medium-conditional
+trainer,training,transport sector,24,2,professionals,medium-conditional
+it specialist,information technology,economic sector,25,2,professionals,high
+reports manager,accounting,financial sector,12,1,managers,medium
+engineer,safety & security,industry sector,21,2,professionals,high
+supervisor,sales,economic sector,52,5,services and sales,medium-conditional
+marketing specialist,marketing,food production sector,24,2,professionals,high
+consultant,sales,food production sector,24,2,professionals,medium-conditional
+accountant,accounting,energy sector,24,2,professionals,high
+accountant,accounting,"environment, water, and agriculture sector",24,2,professionals,high
+accountant,accounting,education sector,24,2,professionals,high
+head of treasury,processes,financial sector,12,1,managers,medium
+financial analyst,processes,financial sector,24,2,professionals,high
+secretariat,administration,financial sector,41,4,clerical support,high
+scribe,processes,financial sector,44,4,clerical support,medium
+admin accountant,sales,financial sector,24,2,professionals,high
+coordinator,hr,financial sector,44,4,clerical support,medium-conditional
+hr specialist,administration,medical sector,24,2,professionals,high
+project manager,processes,media sector,12,1,managers,medium-conditional
+operations supervisor,processes,food production sector,31,3,technicians,medium-conditional
+accountant,accounting,industry sector,24,2,professionals,high
+security and safety specialist,safety & security,"environment, water, and agriculture sector",54,5,services and sales,medium
+supervisor,administration,food production sector,33,3,technicians,medium-conditional
+supervisor,hr,food production sector,44,4,clerical support,medium-conditional
+electrical engineer,processes,food production sector,21,2,professionals,high
+manager assistant,processes,food production sector,33,3,technicians,medium
+it specialist,technical support,food production sector,25,2,professionals,high
+marketing specialist,marketing,communications and it sector,24,2,professionals,high
+relations manager,relations,tourism sector,12,1,managers,medium
+sales executive,sales,communications and it sector,24,2,professionals,medium-conditional
+marketing specialist,marketing,energy sector,24,2,professionals,high
+chemical engineer,processes,transport sector,21,2,professionals,high
+manager assistant,administration,food production sector,33,3,technicians,medium
+hiring specialist,hr,energy sector,24,2,professionals,high
+purchase specialist,processes,communications and it sector,33,3,technicians,medium
+hiring specialist,hr,financial sector,24,2,professionals,high
+marketing specialist,administration,medical sector,24,2,professionals,high
+operations supervisor,processes,medical sector,32,3,technicians,medium-conditional
+supervisor,administration,medical sector,33,3,technicians,medium-conditional
+operations supervisor,processes,transport sector,33,3,technicians,medium-conditional
+relations manager,relations,transport sector,12,1,managers,medium
+hiring specialist,hr,food production sector,24,2,professionals,high
+receptionist,customers service,financial sector,42,4,clerical support,high
+financial analyst,accounting,financial sector,24,2,professionals,high
+financial manager,administration,financial sector,12,1,managers,high
+administrative manager,treasury,financial sector,12,1,managers,high
+relations manager,relations,financial sector,12,1,managers,medium
+administrative manager,administration,"environment, water, and agriculture sector",12,1,managers,high
+warehouse officer,processes,transport sector,43,4,clerical support,medium
+salesman,sales,transport sector,52,5,services and sales,high
+coordinator,relations,transport sector,24,2,professionals,medium-conditional
+admin accountant,accounting,tourism sector,24,2,professionals,high
+relations manager,relations,energy sector,12,1,managers,medium
+relationships specialist,sales,food production sector,24,2,professionals,medium
+hiring specialist,hr,"environment, water, and agriculture sector",24,2,professionals,high
+purchase specialist,sales,"environment, water, and agriculture sector",33,3,technicians,medium
+mechanical engineer,technical support,food production sector,21,2,professionals,high
+electrical engineer,technical support,food production sector,21,2,professionals,high
+purchase specialist,sales,food production sector,33,3,technicians,medium
+hiring specialist,hr,tourism sector,24,2,professionals,high
+administrative manager,administration,energy sector,12,1,managers,high
+relationships specialist,relations,tourism sector,24,2,professionals,medium
+marketing specialist,marketing,transport sector,24,2,professionals,high
+hiring specialist,hr,media sector,24,2,professionals,high
+relationships specialist,relations,food production sector,24,2,professionals,medium
+purchase specialist,sales,transport sector,33,3,technicians,medium
+engineer,technical support,transport sector,21,2,professionals,high
+manager assistant,administration,economic sector,33,3,technicians,medium
+manager assistant,administration,"environment, water, and agriculture sector",33,3,technicians,medium
+purchase specialist,processes,transport sector,33,3,technicians,medium
+purchase specialist,processes,"environment, water, and agriculture sector",33,3,technicians,medium
+operations supervisor,processes,economic sector,33,3,technicians,medium-conditional
+secretariat,administration,economic sector,41,4,clerical support,high
+relationships specialist,relations,industry sector,24,2,professionals,medium
+scribe,processes,economic sector,44,4,clerical support,medium
+administrative manager,administration,industry sector,12,1,managers,high
+data entry operator,processes,industry sector,41,4,clerical support,high
+scribe,administration,transport sector,44,4,clerical support,medium
+consultant,sales,industry sector,24,2,professionals,medium-conditional
+supervisor,administration,transport sector,33,3,technicians,medium-conditional
+relations manager,relations,medical sector,12,1,managers,medium
+engineer,technical support,food production sector,21,2,professionals,high
+scribe,hr,economic sector,44,4,clerical support,medium
+it specialist,information technology,energy sector,25,2,professionals,high
+security and safety specialist,safety & security,education sector,54,5,services and sales,medium
+customer services representative,customers service,engineering consulting companies,42,4,clerical support,high
+data entry operator,processes,financial sector,41,4,clerical support,high
+customer services representative,customers service,energy sector,42,4,clerical support,high
+manager assistant,administration,transport sector,33,3,technicians,medium
+sales executive,sales,transport sector,33,3,technicians,medium-conditional
+production supervisor,production,transport sector,31,3,technicians,medium
+receptionist,customers service,transport sector,42,4,clerical support,high
+coordinator,hr,transport sector,44,4,clerical support,medium-conditional
+receptionist,customers service,"environment, water, and agriculture sector",42,4,clerical support,high
+it specialist,technical support,"environment, water, and agriculture sector",25,2,professionals,high
+relationships specialist,relations,transport sector,24,2,professionals,medium
+accountant,accounting,transport sector,24,2,professionals,high
+electrical engineer,technical support,transport sector,21,2,professionals,high
+security and safety specialist,safety & security,communications and it sector,54,5,services and sales,medium
+it specialist,customers service,communications and it sector,25,2,professionals,high
+project manager,engineering,industry sector,13,1,managers,medium-conditional
+operation and maintenance manager (acting),processes,industry sector,13,1,managers,medium
+project manager,processes,communications and it sector,13,1,managers,medium-conditional
+passenger services assistant,processes,transport sector,51,5,services and sales,medium
+secretariat,administration,energy sector,41,4,clerical support,high
+coordinator,hr,medical sector,44,4,clerical support,medium-conditional
+coordinator,relations,medical sector,24,2,professionals,medium-conditional
+it specialist,technical support,education sector,25,2,professionals,high
+nurse,customers service,medical sector,22,2,professionals,high
+after sales service manager,sales,economic sector,12,1,managers,medium
+relations manager,relations,media sector,12,1,managers,medium
+administrative manager,processes,medical sector,12,1,managers,high
+relationships specialist,relations,economic sector,24,2,professionals,medium
+admin accountant,administration,financial sector,24,2,professionals,high
+marketing specialist,administration,food production sector,24,2,professionals,high
+supervisor,patient affairs,medical sector,33,3,technicians,medium-conditional
+hiring specialist,hr,economic sector,24,2,professionals,high
+operations supervisor,processes,communications and it sector,35,3,technicians,medium-conditional
+marketing specialist,administration,economic sector,24,2,professionals,high
+sales executive,sales,"environment, water, and agriculture sector",33,3,technicians,medium-conditional
+data entry operator,technical support,financial sector,41,4,clerical support,high
+coordinator,relations,education sector,24,2,professionals,medium-conditional
+purchase specialist,sales,energy sector,33,3,technicians,medium
+social worker,customers service,medical sector,26,2,professionals,high
+quality specialist,processes,industry sector,31,3,technicians,medium
+lab specialist,patient affairs,medical sector,32,3,technicians,medium-conditional
+manager assistant,administration,industry sector,33,3,technicians,medium
+sales representative,sales,communications and it sector,52,5,services and sales,high
+sales representative,sales,energy sector,52,5,services and sales,high
+sales representative,customers service,medical sector,52,5,services and sales,high
+supervisor,processes,medical sector,32,3,technicians,medium-conditional
+mechanical engineer,processes,energy sector,21,2,professionals,high
+relationships specialist,relations,engineering consulting companies,24,2,professionals,medium
+financial manager,processes,financial sector,12,1,managers,high
+purchase specialist,sales,industry sector,33,3,technicians,medium
+manager assistant,administration,financial sector,33,3,technicians,medium
+supervisor,administration,energy sector,33,3,technicians,medium-conditional
+project manager,processes,engineering consulting companies,12,1,managers,medium-conditional
+it specialist,technical support,financial sector,25,2,professionals,high
+sales representative,processes,medical sector,52,5,services and sales,high
+hr specialist,hr,energy sector,24,2,professionals,high
+security and safety specialist,safety & security,economic sector,54,5,services and sales,medium
+receptionist,customers service,communications and it sector,42,4,clerical support,high
+data entry operator,processes,communications and it sector,41,4,clerical support,high
+quality specialist,processes,energy sector,31,3,technicians,medium
+relations manager,relations,education sector,12,1,managers,medium
