@@ -45,9 +45,9 @@ Employee-Attrition-Portfolio/
 │   ├── mapping.csv                        ← encoding rules
 │   └── mapping_job_title.csv              ← ISCO mapping + confidence
 ├── notebooks/
-│   ├── 01_clean_data.ipynb                ← Data cleaning & coding
-│   ├── 02_eda.ipynb                       ← Descriptive statistics & group differences
-│   └── 03_modeling.ipynb                  ← Regression, CART, interaction tests, model evaluation
+│   ├── 01Clean_data.ipynb                ← Data cleaning & coding
+│   ├── 02Eda.ipynb                       ← Descriptive statistics & group differences
+│   └── 03Modeling.ipynb                  ← Regression, CART, interaction tests, model evaluation
 └── assets/
     └── *.png                              ← figures embedded in FINDINGS.md
 ```
