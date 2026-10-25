@@ -63,5 +63,5 @@ Python · pandas · statsmodels · scikit-learn · matplotlib · seaborn
 
 
 ## About me
-With hands-on experience in training operations, recruitment execution, and HRBP, I'm passionate about people data and aspire to become a people analytics expert—committed to creating healthier, more sustainable work environments for employees.
+With hands-on experience in training operations, recruitment execution, and HRBP, I'm passionate about HR data and aspire to become a people analytics expert who can create a healthier, more sustainable work environments for employees.
 
