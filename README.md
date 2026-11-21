@@ -35,21 +35,25 @@ A diagnostic analysis of 1,191 real employee survey responses (Saudi private sec
 ## Project Structure
 ```
 Employee-Attrition-Portfolio/
-├── README.md                              ← Project overview (this file)
-├── FINDINGS.md                            ← Full findings report: figures, numbers, recommendations
-├── data_dictionary.csv                    ← Variable dictionary
+├── README.md                              ← Project overview & navigation (this file)
+├── Retention_Diagnostic_2026.md           ← Main findings report: figures, insights, recommendations
 ├── data/
-│   ├── cleaned_employee_attrition.csv     ← analysis-ready dataset (N=1,191)
-│   ├── data_audit.csv                     ← quality audit
-│   ├── value_report.csv                   ← value distributions
-│   ├── mapping.csv                        ← encoding rules
-│   └── mapping_job_title.csv              ← ISCO mapping + confidence
+│   ├── Online Survey Questions.docx       ← Original survey questionnaire
+│   ├── data_dictionary.md                 ← Variable dictionary, original questions, and encoding rules
+│   ├── cleaned_employee_attrition.csv     ← Analysis-ready dataset (N=1,191)
+│   ├── data_audit.csv                     ← Data quality audit (missing values, types)
+│   ├── value_report.csv                   ← Value distributions for categorical variables
+│   ├── mapping.csv                        ← Encoding rules for raw to clean variables
+│   └── mapping_job_title.csv              ← ISCO-08 mapping + confidence levels
 ├── notebooks/
-│   ├── 01Clean_data.ipynb                ← Data cleaning & coding
-│   ├── 02Eda.ipynb                       ← Descriptive statistics & group differences
-│   └── 03Modeling.ipynb                  ← Regression, CART, interaction tests, model evaluation
+│   ├── 01_clean_data.ipynb                ← Data cleaning, logic checks & ISCO mapping
+│   ├── 02_eda.ipynb                       ← Descriptive statistics, correlations & group differences
+│   └── 03_modeling.ipynb                  ← Regression, CART, interaction tests & model evaluation
 └── assets/
-    └── *.png                              ← figures embedded in FINDINGS.md
+    ├── Fig1_attrition_by_sector_dept_majorgroup.png
+    ├── Fig2_attrition_by_Sector_and_Major_Group.png
+    ├── Fig3_attrition_by_demographics.png
+    └── Fig4_Intersection_simple_slop.png
 ```
 
 ## Tech Stack
