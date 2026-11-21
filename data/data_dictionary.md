@@ -101,7 +101,7 @@ This document describes all variables present in `cleaned_employee_attrition.csv
 
 | Column Name | Description | Notes |
 | :--- | :--- | :--- |
-| `allowances` | Number of allowances received | Integer. Count of benefits (housing, transport, etc.) |
+| `allowances` | Count of allowance types received | Integer (0-4). Derived from Q12 (multi-select). Represents how many types (Housing, Transport, Living, Travel) were selected. 0 = No allowances. |
 | `flag_overtime_payment_inconsistent` | Logic flag for OT | 1 = Has OT but payment status is unknown. |
 | `ot_status_label` | Text label for OT status | "no_overtime", "paid_overtime", "unpaid_overtime", "unknown_payment". |
 | `ot_2` | Dummy: Paid overtime | 1 = Yes, 0 = No (Base = no overtime) |
