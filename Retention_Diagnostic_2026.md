@@ -75,7 +75,7 @@ Perceived External Opportunities (`job_opportunities`) show an advantage across 
 
 *Note. See [Appendix D](#appendix-d-model-performance) for the full permutation importance matrix. Units differ across methods.*
 
-The Logit OR of **5.79** for Perceived External Opportunities means its odds ratio is over 5 times that of the second variable (OR=1.11). When employees perceive sufficient external opportunities, internal emotional commitment (OR=0.65) and perceived job stability (OR=0.54) can hardly provide a defense.
+Perceived External Opportunities shows the strongest adjusted association consistent across all four methods. When employees perceive sufficient external opportunities, internal emotional commitment (OR=0.65) and perceived job stability (OR=0.54) can hardly provide a defense.
 
 ### 2.2 Extreme profiles and exceptions
 *Note. Profiles are based on the CART tree. Terminal node sample sizes vary.*
