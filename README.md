@@ -16,7 +16,7 @@ A diagnostic analysis of 1,191 real employee survey responses (Saudi private sec
 - **Drivers differ by occupation**: external opportunity is the top correlate in 4 of 5 major groups (strongest among managers, r = 0.47); services & sales responds mainly to opportunity and physical stress; clerical support is the exception — promotion fairness is its strongest correlate (r = −0.36)
 - **Two moderation effects pass formal interaction tests** (exploratory, pending validation): in medical professionals, high psychological exhaustion reverses the protective association of job stability; among clerical staff, low recognition flips the direction of pay satisfaction vs. attrition
 
-→ [Full findings report with all figures and tables](FINDINGS.md)
+→ [Full findings report with all figures and tables](Retention_Diagnostic_2026.md)
 
 
 ## Recommendations
