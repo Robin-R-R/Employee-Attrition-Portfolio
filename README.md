@@ -46,9 +46,9 @@ Employee-Attrition-Portfolio/
 │   ├── mapping.csv                        ← Encoding rules for raw to clean variables
 │   └── mapping_job_title.csv              ← ISCO-08 mapping + confidence levels
 ├── notebooks/
-│   ├── 01_clean_data.ipynb                ← Data cleaning, logic checks & ISCO mapping
-│   ├── 02_eda.ipynb                       ← Descriptive statistics, correlations & group differences
-│   └── 03_modeling.ipynb                  ← Regression, CART, interaction tests & model evaluation
+│   ├── 01Clean_data.ipynb                ← Data cleaning, logic checks & ISCO mapping
+│   ├── 02EDA.ipynb                       ← Descriptive statistics, correlations & group differences
+│   └── 03Modeling.ipynb                  ← Regression, CART, interaction tests & model evaluation
 └── assets/
     ├── Fig1_attrition_by_sector_dept_majorgroup.png
     ├── Fig2_attrition_by_Sector_and_Major_Group.png
