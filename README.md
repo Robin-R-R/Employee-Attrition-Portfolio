@@ -53,7 +53,7 @@ Employee-Attrition-Portfolio/
     ├── Fig1_attrition_by_sector_dept_majorgroup.png
     ├── Fig2_attrition_by_Sector_and_Major_Group.png
     ├── Fig3_attrition_by_demographics.png
-    └── Fig4_Intersection_simple_slop.png
+    └── Fig4_Intersection_simple_slope.png
 ```
 
 ## Tech Stack
@@ -67,5 +67,5 @@ Python · pandas · statsmodels · scikit-learn · matplotlib · seaborn
 
 
 ## About me
-With hands-on experience in training operations, recruitment execution, and HRBP, I'm passionate about HR data and aspire to become a people analytics expert who can create a healthier, more sustainable work environments for employees.
+With hands-on experience in training operations, recruitment execution, and HRBP, I'm passionate about HR data and aspire to become a people analytics expert who can create a healthier, more sustainable work environment for employees.
 
